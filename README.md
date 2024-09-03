@@ -19,19 +19,20 @@ The fields for the data set are as follows:
 |CITY|String|Name of city. Each instance is numbered to achieve desired tableau visualization.|New York|
 |DATE-BEGIN|Date|Begin date for exhibition (M/D/Y). When only month is known, the first of the month is used. When only the year is known the January 1st is used.|3/1/1914|
 |DATE-END|Date|End date for exhibition (M/D/Y). When only month is known, the first of the month is used. When only the year is known the December 31st is used.|4/1/1914|
-|DAYS|
-|INSTITUTION|String|Name of exhibiting institution. If the initial article "The" is used, it is removed. University/college galleries or museums have their parent educational institutions' names appended at the end unless included in the gallery or museum names. For large gallery or museum organizations, the umbrella name is used.|Smithsonian|
-|TITLE|String|Title of Exhibition. Alternate tiles or additional information such as the names of private collectors is added in [square] brackets. Travelling exhibitions with the same name are differentiated with square bracketted numbers appended to the title.|The Emperor's Carpet Lent by Edith Rockefeller McCormick [Collection]|
+|DAYS|Number|Number of days exhibition was held.|85|
+|INSTITUTION|String|Name of exhibiting institution. Initial article "The" is is removed from instituion names. University/college galleries or museums have their parent educational institutions' names appended at the end unless included in the exhibiting instittion's names. For large gallery or museum organizations, the umbrella name is used.|Smithsonian|
+|TITLE|String|Title of Exhibition. Alternate titles or additional information such as the names of private collectors are added in [square] brackets. Travelling exhibitions with the same name are differentiated with square bracketted numbers appended to the title.|The Emperor's Carpet Lent by Edith Rockefeller McCormick [Collection]|
 |MEDIA|String|Predominant type of media of works exhibited. For shows with various media, "Material Culture" is used.|Textiles|
 |TRAVELLING|String|Whether the exhibition travelled to other locations or not (Yes/No)|Yes|
 |INSTITUTION-DIVISION|String|Subdivision of institution hosting exhibition.|National Museum of Asian Art - Freer Gallery of Art|
-
+|URL-SUMMARY|URL|Link to summary of exhibition, typically to gallery or museum website.|https://harvardartmuseums.org/exhibitions/5231|
+|URL-CATALOGUE|URL|Link to catalogue reference or digital copy, typically to gallery or museum website, Worldcat, and/or archive.org|https://harvardartmuseums.org/exhibitions/2594|
 
 ## Tableau
 The **tableau public** dataset and visualizations are available [here](https://public.tableau.com/views/TemporaryUSExhibitionsofHistoricalIslamicArt1914-2020/Chronology?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link]).
 
 ## Feedback
-Every effort to ensure the dataset is complete has been made. If you notice an omission or have used this dataset in your work please inform us at ??????.
+Every effort has been made to ensure the dataset is complete accurate. If you notice an error or omission, or you have used this dataset in your work please inform us at ??????.
 
 ## Cite this Dataset
 
