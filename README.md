@@ -31,6 +31,8 @@ The fields for the data set are as follows:
 ## Tableau
 The **tableau public** dataset and visualizations are available [here](https://public.tableau.com/views/TemporaryUSExhibitionsofHistoricalIslamicArt1914-2020/Chronology?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link]).
 
+![Clipboard01](https://github.com/user-attachments/assets/9870a8c7-3b14-43f4-b6ae-6d89bc813bb4)
+
 ## Feedback
 Every effort has been made to ensure the dataset is complete accurate. If you notice an error or omission, or you have used this dataset in your work please inform us at ??????.
 
