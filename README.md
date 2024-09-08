@@ -1,7 +1,7 @@
 # DRAFT-Temporary US Exhibitions of Historical Islamic Art 1914-2020 - Dataset
 In 2024, Dr. Chelsea Baumgartner (Independent Scholar) and Dr. Hussein Keshani (UBC) compiled a research dataset of all documented temporary exhibitions of pre-Modern Islamic Art held in the United States (US) from 1914 to 2020 with the goal of understanding the exhibition history of Islamic Art in the US. This research is based in part on Dr. Baumgartner's 2022 dissertation ["Queer contemporary artists of Muslim heritage in the United States and Canada : art, display, and reception."](https://dx.doi.org/10.14288/1.0415869)
 
-The dataset is hosted here in this Github repository in csv format and on **tableau public**, along with multiple interactive data visualizations. 
+The dataset **Temporary US Exhibitions of Historical Islamic Art 1914-2020 - Dataset.csv** is hosted here in this Github repository in csv format and on **tableau public**, along with multiple interactive data visualizations. 
 
 ## How this Dataset was Compiled
 
