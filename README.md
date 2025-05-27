@@ -29,7 +29,7 @@ The fields for the data set are as follows:
 |URL-CATALOGUE|URL|Link to catalogue reference or digital copy, typically to gallery or museum website, Worldcat, and/or archive.org|https://harvardartmuseums.org/exhibitions/2594|
 
 ## Tableau
-The **tableau public** dataset and visualizations are available [here]([https://public.tableau.com/views/TemporaryUSExhibitionsofHistoricalIslamicArt1914-2020/Chronology?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/hk4639/viz/TemporaryUSExhibitionsofHistoricalIslamicArt1914-2020/TimeSeriesWeb]).
+The **tableau public** dataset and visualizations are available [here](https://public.tableau.com/app/profile/hk4639/viz/TemporaryUSExhibitionsofHistoricalIslamicArt1914-2020/TimeSeriesWeb).
 
 ![Clipboard01](https://github.com/user-attachments/assets/9870a8c7-3b14-43f4-b6ae-6d89bc813bb4)
 
